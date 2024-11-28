@@ -1,5 +1,5 @@
 const int triggerPin = 5; 
-const int echoPin = 18;    
+const int echoPin = 6;    
 
 // Variáveis
 long duration;
